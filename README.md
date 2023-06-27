@@ -10,8 +10,7 @@ using a youtube API this app was built with beautiful UI and performance
 
 ## Demo
 
-[whats-app-clone-nextjs-chi.vercel.app
-](https://youtube-clone-omega-weld.vercel.app/)
+https://youtube-clone-omega-weld.vercel.app/
 
 
 ## App Preview
